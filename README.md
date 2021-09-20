@@ -29,10 +29,12 @@ b) Desenvolver um sistema prático de audio.
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
   
+- [HTML]
 - [React](https://reactjs.org)
 - [Next](https://nextjs.org/)
 - [Axios](https://axios-http.com/docs/intro)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
   
 </p>
 
