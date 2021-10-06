@@ -10,7 +10,7 @@
 
 <p>
 Projeto desenvolvido em conjunto a Rocketseat, com objetivo de aprendizado de novas ferramentas como React.js, Next, Axios. 
-Podcastr é perfeito para couvintes de podcasts, disponibilizando vários podcasts exclusivos da RocketSeat, de uma forma muito organizada e acessível.
+Podcastr é perfeito para ouvintes de podcasts, disponibilizando vários podcasts exclusivos da RocketSeat, de uma forma muito organizada e acessível.
 
 Este é um projeto desenvolvido durante a Next Level Week Together.
 
